@@ -2,7 +2,6 @@ package day02
 
 import println
 import readInput
-import kotlin.streams.toList
 
 private const val DAY = "day02";
 fun main() {
